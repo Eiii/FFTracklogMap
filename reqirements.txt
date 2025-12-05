@@ -1,0 +1,4 @@
+basemap==2.0.0
+basemap_data==2.0.0
+fastkml==1.4.0
+matplotlib==3.10.7
